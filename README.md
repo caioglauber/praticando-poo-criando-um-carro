@@ -1,1 +1,2 @@
-# Favor seguir apenas as opçoes do menu para nao da eroo de exceção.
+# Favor seguir apenas as opções do menu para nao da erro de exceção.
+
